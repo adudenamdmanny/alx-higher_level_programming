@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-matrix_mul.py
-# Naheemah Bello
+# Emmanuel Essien
 """Defines a matrix multiplication function."""
 
 
